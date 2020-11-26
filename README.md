@@ -1,2 +1,2 @@
 # BariFlayer
-A port of baritone to Mineflayer!
+A port of Baritone to Mineflayer!
